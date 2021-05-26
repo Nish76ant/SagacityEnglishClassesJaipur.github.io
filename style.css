@@ -43,7 +43,7 @@ input {
     border: none;
     padding: 10px;
     font-size: 16px;
-    min-width: 400px;
+    min-width: 40px;
     outline: none;
 }
 button{
@@ -55,7 +55,7 @@ button{
     cursor: pointer;
 }
 section.data{
-    max-width: 600px;
+    max-width: 400px;
     margin: 0 auto;
     margin-top: 20px;
     text-align: center;
